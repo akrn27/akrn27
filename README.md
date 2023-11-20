@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andika-kurnia-bab53b1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andika-kurnia-bab53b1b4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/andika-kurnia-bab53b1b4/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/andika-kurnia-bab53b1b4/" height="30" width="40" /></a>
 </p>
 
 <hr />
@@ -26,4 +26,6 @@
 <img src="https://skillicons.dev/icons?i=postman,vscode,netlify,nodejs,express,mysql" />
 </div>
 
-<h3><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrn27&show_icons=true&locale=en&layout=compact" alt="akrn27" width="100%" /></h3>
+<h3>
+<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrn27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</h3>
