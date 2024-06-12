@@ -8,7 +8,7 @@
 
 - 🎓 Graduated from Asia e University (CGPA 3.24) - Bachelor of Information Communication and Technology (HONOURS)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NodeJS & ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://akrn27.netlify.app/](https://akrn27.netlify.app/)
 
